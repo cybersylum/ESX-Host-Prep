@@ -1,6 +1,10 @@
 # ESX-Host-Prep
 a basic powershell script using PowerCLI to set some basic configurations for ESXi hosts
 
+Disclaimer
+  * You are free to use or modify this code for your own purposes.
+  * Warranty and/or support for this code is not provided or implied.  Use this at your own risk.  Testing is highly recommended.
+
 If you have a small environment or do not use Enterprise Plus licensing (for Host Profiles), this script can help automate some basic configurations that may be the same across a number of hosts.  It can be easily extended to add other configuration items or adjusted to meet the needs in your environment
 
 DISCLAIMER - This runs in my lab and should run in most environments.  Please test thoroughly.  Feel free to change/modify/copy code as you see fit.
